@@ -9,16 +9,16 @@ export default function HomepageFeatures() {
         <div className="row">
           <div className={clsx('col col--4')}>
             <div className="text--center">
-              <img src="img/h1.jpg" className="featureImg" role="img" />
+              <img src="img/kaartsquare.png" className="featureImg" role="img" />
             </div>
             <div className="text--center padding-horiz--md">
-              <h3>Multi-cultureel</h3>
-              <p>Van oost-europees tot mediteraans, verschillende ethniciteiten geven kleur aan de straat</p>
+              <h3>Centraal Gelegen</h3>
+              <p>Dicht bij de stad en de Natuur</p>
             </div>
           </div>
           <div className={clsx('col col--4')}>
             <div className="text--center">
-              <img src="img/h2.jpg" className="featureImg" role="img" />
+              <img src="img/h1.jpg" className="featureImg" role="img" />
             </div>
             <div className="text--center padding-horiz--md">
               <h3>Nieuwbouw</h3>
@@ -27,7 +27,7 @@ export default function HomepageFeatures() {
           </div>
           <div className={clsx('col col--4')}>
             <div className="text--center">
-              <img src="img/h3.jpg" className="featureImg" role="img" />
+              <img src="img/gezellig.png" className="featureImg" role="img" />
             </div>
             <div className="text--center padding-horiz--md">
               <h3>Gezellig</h3>
