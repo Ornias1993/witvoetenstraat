@@ -71,18 +71,8 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Intro",
-                to: "/docs/intro"
-              }
-            ]
-          }
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Ornias1993`
+        links: [],
+        copyright: `Copyright © ${new Date().getFullYear()} Kjeld Schouten-Lebbing`
       },
       prism: {
         theme: lightCodeTheme,
