@@ -63,13 +63,7 @@ const config = {
             label: "Docs"
           },
           {
-            type: "doc",
-            docId: "intro",
-            position: "left",
-            label: "Charts and Apps"
-          },
-          {
-            href: "https://github.com/Ornias1993/apps",
+            href: "https://github.com/Ornias1993/witvoetenstraat",
             label: "GitHub",
             position: "right"
           }
@@ -82,17 +76,8 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
+                label: "Intro",
                 to: "/docs/intro"
-              }
-            ]
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus"
               }
             ]
           }
