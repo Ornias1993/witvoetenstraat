@@ -58,9 +58,15 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "woningenhome",
             position: "left",
-            label: "Docs"
+            label: "Woningen"
+          },
+          {
+            type: "doc",
+            docId: "straathome",
+            position: "left",
+            label: "Straat"
           },
           {
             href: "https://github.com/Ornias1993/witvoetenstraat",
