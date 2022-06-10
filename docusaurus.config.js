@@ -13,6 +13,7 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
+  blog: false
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -55,8 +56,6 @@ const config = {
           src: "img/paardenvoet.png"
         },
         items: [
-
-          { to: "/blog", label: "Blog", position: "left" },
           {
             type: "doc",
             docId: "intro",
@@ -91,10 +90,6 @@ const config = {
           {
             title: "More",
             items: [
-              {
-                label: "Blog",
-                to: "/blog"
-              },
               {
                 label: "GitHub",
                 href: "https://github.com/facebook/docusaurus"
