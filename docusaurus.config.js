@@ -58,13 +58,13 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "woningen/intro",
             position: "left",
             label: "Woningen"
           },
           {
             type: "doc",
-            docId: "intro",
+            docId: "straat/intro",
             position: "left",
             label: "Straat"
           },
