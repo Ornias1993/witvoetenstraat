@@ -1,41 +1,9 @@
-# Website
+# Witvoetenstraat information website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This repository houses the dutch `witvoetenstraat.nl` informational website.
 
-### Installation
 
-```
-$ yarn
-```
+#### License
 
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Please be aware that, while source has been provided, this repository has not been submitted under a FOSS or OpenSource License.
+Any additionally provided content, via PR or otherwise, will be expected to container a transfer of rights to Kjeld Schouten-Lebbing
