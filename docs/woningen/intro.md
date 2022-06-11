@@ -14,6 +14,4 @@ Waaronder: Bouwtekeningen, instructies, gedocumenteerde aanpassingen etc.
 Helaas ontbreken nog enkele delen, hier een kleine lijst:
 
 - Foto's bij de tekst sections, vooral bij de instructies.
-- Onder "Water" de "Warmwater" sectie, oftewel warmtepomp gerelateerde informatie
-- Alles onder "Verwarming en Koeling", oftewel de warmtepomp
-- Alles onder "Vloeren en Muren"
+- Kamerinstellingen, verwarming en warmtepomp introductie, voor "verwarming en koeling"
