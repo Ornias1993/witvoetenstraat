@@ -62,8 +62,12 @@ Er zijn en verscheidenheid aan tekeningen en handleidingen beschikbaar voor de w
 
 - https://witvoetenstraat.nl/uploads/energielabel-warmtepomp.pdf
 
+**Advies over vloerbedekkingen en vloerkoeling**
 
-### Zonnapenelen
+- https://witvoetenstraat.nl/uploads/Vloerbedekking_in_combinatie_met_vloerverwarming.pdf
+
+
+### Zonnepanelen
 
 **Omvormer handleiding**
 
