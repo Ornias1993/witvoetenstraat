@@ -6,6 +6,10 @@ Het betreft hierbij een zogenaamd "Systeem-C" ventilatie systeem.
 Dit betekend dat de mechanische ventilatie continue afzuigt, waarbij verse lucht door de ventilatieroosters boven de ramen wordt aangezogen.
 
 
+### Introductie video Itho daalderop CVE-S ECO
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MnTwS1MV2rI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Raamroosters
 
 Het is *extreem* belangrijk voor het voorkomen van schimmel en luchtwegklachten, dat de raamafsluiters nagenoeg nooit worden afgesloten.
