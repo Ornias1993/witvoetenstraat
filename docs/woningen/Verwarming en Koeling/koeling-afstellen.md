@@ -68,7 +68,7 @@ Om deze instelling te wijzigen:
 
 ##### Hysterese Koeling
 
-Net als warm-water, heeft ook koeling een "hysterese" setting. Waarbij de temperatuur bijgestuurd wordt als deze "verschil" instelling wordt overscheden
+Net als warm-water, heeft ook koeling een "hysterese" setting. Het is niet 100% duidelijk of dit slaat op de hysterese van het koelwater of de kamertemperatuur. Vermoedelijk dat eerste.
 Omdat vloerkoeling relatief "snel" inschakeld en uitschakeld, kan deze relatief veilig voor betere temperatuurstabiliteit van 2k naar 1k worden verlaagd.
 
 **Waarschuwing: Dit betreft een installateursinstelling, instellingen die beschikbaar komen met de installateurscode kunnen schade veroorzaken**
