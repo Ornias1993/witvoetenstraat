@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Handleidingen en Tekeningen
 
 Er zijn en verscheidenheid aan tekeningen en handleidingen beschikbaar voor de woningen en de apparaten daarin.
