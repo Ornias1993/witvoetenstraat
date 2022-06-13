@@ -68,6 +68,11 @@ Met een normale douche van 8 liter per minuut, betekend dit nog maar 20 van de 3
 Men dient voorzichtig te zijn met deze instelling echter, omdat het dus óók 15 minuten kost voor de warmtepomp om op gang te komen.
 Als je dit te laag instelt gaat deze problemen vertonen. Het is echter getest en veilig om deze van 5, naar 3 te verlagen.
 
+Échter:
+Omdat de ketel er lang over doet om over te schakelen van koelen naar warm-water (en in mindere mate van verwarmen naar warm-water), levert juist een hógere hysterese een betere efficientie op.
+Met het oog daarop, is ook een hysterese van 8 graden, volledig acceptabel. Maar doe dit alleen indien de huidige warm-water hoeveelheid volledig voldoet!
+Deze instelling verhogen, kán in praktijk betekenen dat er meer uren gekoeld en verwarmd kan worden op warme dagen.
+
 **Waarschuwing: Deze instelling kan schade aan de warmtepomp veroorzaken. Niet verlagen tot minder dan 3k**
 
 Omdat dit een schadelijke instelling betreft, kun je deze instelling standaard niet wijzigen. Dit kan normaal alleen de installateur.

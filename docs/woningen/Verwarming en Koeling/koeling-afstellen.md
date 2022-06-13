@@ -9,6 +9,7 @@ Echter is er *ook* al een hoop te bereiken zonder installateursinstellingen.
 ##### Verwarming uitschakelen
 
 In sommige gevalen kan het voor een stabiele en voorspelbare (koel)temperatuur helpen om de verwarming handmatig uit te schakelen in de zomer.
+Op dezelfde manier raad de handleiding óók aan om koeling juist in de winter uit handmatig uit te zetten.
 
 Dit kun je zelf aanpassen op de RBE+ thermostaat in de woonkamer:
 
@@ -68,28 +69,8 @@ Om deze instelling te wijzigen:
 
 ##### Hysterese Koeling
 
-Net als warm-water, heeft ook koeling een "hysterese" setting. Het is niet 100% duidelijk of dit slaat op de hysterese van het koelwater of de kamertemperatuur. Vermoedelijk dat eerste.
-Omdat vloerkoeling relatief "snel" inschakeld en uitschakeld, kan deze relatief veilig voor betere temperatuurstabiliteit van 2k naar 1k worden verlaagd.
-
-**Waarschuwing: Dit betreft een installateursinstelling, instellingen die beschikbaar komen met de installateurscode kunnen schade veroorzaken**
-
-Om deze instelling te wijzigen:
-- Open de trapkast en draai aan de draaiknop van de warmtepomp om het scherm te activeren.
-- Zorg dat je op het beginscherm bent met meerdere icoontjes onderin. Als dat niet zo is, draai aan de knop en selectuur het pijltje rechts onderin en selecteer dit door de knop in te drukken.
-- Selectuur het icoontje met de "steeksleutel", door te draaien en de knop in te drukken
-- Selecteer `instelling" en druk de knop in
-- Selecteer `datatoegang` 
-- klik vervolgens op elk van de 4 vakjes en verdraai ze tot er `9445` staat.
-- Draai daarna tot het vinkje geselecteerd staat en druk op de knop
-- Er zal `installateur`  in het schermpje verschijnen en het pijltje linksonderin zal oplichten
-- Druk op de knop (met het opgelichte pijltje op het scherm) om naar het vorige menu terug te gaan
-- Selecteer `temperaturen` en druk op de knop om het menu te openen
-- Selecteer `hysterese Koeling`, druk op de knop, draai tot er `1k` staat.
-- Druk op de knop om de nieuwe hysterese temperatuur de bevestigen.
-- Draai de knop rond, tot deze helemaal onderaan het vinkje doet oplichten, Druk op de knop
-- het pijltje naar links zal oplichten, druk wederom op de knop om een menu terug te gaan
-- Draai tot `datatoegang` oplicht en open dit menu door op de knop te drukken
-- Draai gelijk tot het vinkje oplicht en druk op de knop, de `installateur` tekst zal verdwijnen en de warmtepomp is nu weer "veilig" op slot.
+Alhoewel er best winsten te behalen kunnen zijn met de "Hysterese Koeling", is op dit moment niet volledig duidelijk hoe deze setting invloed heeft op het koelgedrag van de specifieke warmtepompen in deze straat.
+Dit komt er vooral door, dat in de handleiding (Regelunit, deel 2) staat vermeld dat dit enkel gebruikt zou worden voor "active koeling", waar onze huizen eigenlijk alleen werken dmv. passive koeling.
 
 
 ##### Minimale KoelWater Temperatuur
@@ -106,7 +87,7 @@ Controlleer bij aanpassing daarom regelmatig de temperatuur en condensvorming on
 Het is **Cruciaal** om condensvorming te voorkomen. De vloer mag **NOOIT** onder de 17 graden komen, meet dit **ALTIJD** na met een goede (infrarood) thermometer.
 
 Voor de meeste vloeren kan de minimum koelwater temperatuur vrij veilig worden verlaagd van 18 naar 17 graden.
-Een vrij onbekende "bug" hierin, is dat de watertemperatuur in praktijk 0.5 kouder(!) is dan de daadwerkelijke minimum watertemperatuur.
+Een vrij onbekende "bug" hierin, is dat de watertemperatuur in praktijk 0.5 kouder(!) kan zijn, dan de daadwerkelijke minimum watertemperatuur.
 
 In sommige vloeren, zoals tegels, kan dit verder worden verlaagd tot zelfs 16 graden.
 Dit vereist wel dat men een verlijmde vloer heeft en goed toezicht houd op vloertemperatuur en condensvorming.
