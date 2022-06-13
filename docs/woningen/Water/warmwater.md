@@ -41,11 +41,45 @@ Dit komt omdat het verwarmingselement bij springt. Deze stopt per minuut dat er 
 *TODO doormeten standaard douche van BeterWonen*
 
 Spaardouches hebben een slechte naam, maar dit hoeft niet altijd het geval te zijn!
-Zo is het mogelijk zelfs een regendouche zo aan te passen dat deze slechts 4 liter per minuut verbruikt.
+Zo is het mogelijk zelfs een regendouche zo aan te passen dat deze slechts 3 liter per minuut verbruikt!
 
-*TODO instructies voor een voorbeeld DIY zuinige regendouche*
 
-Op dit moment staan tests in de planning met een zuinige regendouche van slechts 3 liter per minuut.
+**Instructies energiezuinige spaardouche:**
+
+- Douchekop 30cm, 35 euro, AliExpress: https://nl.aliexpress.com/item/32960554408.html
+- Doorstroombeperker 4l/min, AliExpress, 10 euro: https://nl.aliexpress.com/item/1005001369692249.html?algo_exp_id=11be8372-751a-443d-a84f-8ec44d71761f-5&pdp_ext_f=%7B%22sku_id%22%3A%2212000015833693223%22%7D&pdp_npi=2%40dis%21EUR%21%212.37%21%21%21%21%21%402100bb4c16551282113844362e393a%2112000015833693223%21sea
+- Doorstroombeperker 3l/min, 10 euro: https://www.savinga.com/5-shower-flow-regulators/79-shower-flow-regulator-af-3-l-min
+- Muurstang Optie 1: 20 euro AliExpress: https://nl.aliexpress.com/item/32960554408.html
+- Muurstang, Optie 2: 85 euro, AliExpress: https://nl.aliexpress.com/item/33004661574.html?pdp_npi=2%40dis%21EUR%21%E2%82%AC+101%2C75%21%E2%82%AC+66%2C14%21%21%21%21%21%400b0a0ae216551274513308439e390b%2110000014024207022%21sh
+- Muurstang, Optie 3: 350 euro Grohe: https://www.sanitairwinkel.nl/p/76906643/grohe-euphoria-douchesysteem-met-omstelling-met-euphoria-hoofddouche-260mm-en-handdouche-massage-chroom
+- (optioneel) Airdouche opzet stuk, 50 euro: https://airdouche.shop/product/airdouche-het-besparende-element
+
+
+Volgorde van plaatsing:
+- Kraan
+- Doorstroombeperker 4l/min (Het blijkt dat zonder deze, de 3l/min soms helemaal dicht slaat)
+- Doorstroombeperker 3l/min
+- Slang
+- Muurstang
+- (optioneel)AirDouche opzet stuk
+- Regendouchekop
+
+
+** Instructies 3l/min standaard douche:**
+
+Doordat de standaard douchekop wat kleiner is dan een regendouche, zul je de vermindering van de hoeveelheid water ook eerder merken.
+Het kan raadzaam zijn om zelfs met de 3l/min limiter een "waterbesparende douchekop" met "venturi" functie te kopen, omdat deze beter met minder water om kunnen gaan.
+
+- Doorstroombeperker 4l/min, AliExpress, 10 euro: https://nl.aliexpress.com/item/1005001369692249.html?algo_exp_id=11be8372-751a-443d-a84f-8ec44d71761f-5&pdp_ext_f=%7B%22sku_id%22%3A%2212000015833693223%22%7D&pdp_npi=2%40dis%21EUR%21%212.37%21%21%21%21%21%402100bb4c16551282113844362e393a%2112000015833693223%21sea
+- Doorstroombeperker 3l/min, 10 euro: https://www.savinga.com/5-shower-flow-regulators/79-shower-flow-regulator-af-3-l-min
+
+Volgorde van plaatsing:
+- Kraan
+- Doorstroombeperker 4l/min (Het blijkt dat zonder deze, de 3l/min soms helemaal dicht slaat)
+- Doorstroombeperker 3l/min
+- Slang
+- Douchekop
+
 
 ### Warmtepomp instellingen
 
