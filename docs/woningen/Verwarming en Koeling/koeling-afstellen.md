@@ -46,6 +46,17 @@ Dit kun je zelf controlleren en aanpassen op de RBE+ thermostaat in de woonkamer
 - Selecteer `koelen vanaf binnen temp`
 - Stel dit in op 20 graden
 
+##### Kalibratie Woonkamer
+
+In praktijk blijken de slaapkamers in de zomer(!) minder snel af te koelen dan beneden.
+Dit verschil is, zelfs bij goede afstelling van het koelsysteem, nog ongeveer 0.5-1 graden.
+
+Om dit te compenseren, kan je de woonkamer 0.5 tot 1 graad omhoog kalibreren in de zomer. Dat betekend dat de ketel "denkt" dat het iets warmer is dan dat het is.
+
+- Swipe naar links of rechts tot je een lijstje met instellingen ziet, waaronder `kalibreren ruimtevoeler`
+- Tik op `kalibreren ruimtevoeler`
+- Stel dit in op 0.5 of 1.0 graden (letop: + graden, niet - graden!)
+
 
 ##### Invloedsfactor RuimteTemperatuur
 
