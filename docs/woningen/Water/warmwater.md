@@ -36,6 +36,12 @@ Een paar voorbeelden, uitgaan van 10 graden koudwater en 38 graden douchen:
 Het zal hierbij opvallen dat 2x minder liters per minuut, meer douchetijd opleverd dan 2x.
 Dit komt omdat het verwarmingselement bij springt. Deze stopt per minuut dat er gedouched wordt, ook nog enkele liters heet-water "terug" in de boiler.
 
+### Verwarmingselement
+
+Het verwarmingelement van de Boiler ís de warmtepomp.
+Deze levert(!), bij normaal gebruik tussen de 40c en 58c, 3-4kw aan vermogen.
+
+
 ### Spaardouches
 
 *TODO doormeten standaard douche van BeterWonen*
