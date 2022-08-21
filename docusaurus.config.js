@@ -48,9 +48,14 @@ const config = {
     ]
   ],
 
+  // https://gabrielcsapo.github.io/docusaurus-plugin-image-zoom/docs/getting-started/
+  plugins: [require.resolve("docusaurus-plugin-image-zoom"), require.resolve("docusaurus-plugin-google-adsense")],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+	googleAdsense: {
+      dataAdClient: 'ca-pub-9270569596814796',
+    },
       navbar: {
         title: "Witvoetenstraat",
         logo: {
